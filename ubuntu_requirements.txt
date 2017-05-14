@@ -1,0 +1,10 @@
+## installed
+
+sudo apt-get install nginx
+
+
+## installed by default
+vim(7.4)
+git
+python
+
