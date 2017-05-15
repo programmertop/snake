@@ -1,6 +1,7 @@
 ## installed
 
 sudo apt-get install nginx
+sudo apt-get install mongodb
 
 
 ## installed by default
